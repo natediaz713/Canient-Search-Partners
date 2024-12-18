@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Canient Search Partners</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #2c3e50;
+            color: #fff;
+            padding: 20px 10px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+        }
+        nav {
+            text-align: center;
+            margin: 20px 0;
+        }
+        nav a {
+            margin: 0 15px;
+            color: #2c3e50;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        nav a:hover {
+            color: #3498db;
+        }
+        section {
+            padding: 20px;
+        }
+        h2 {
+            color: #2c3e50;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        .contact {
+            background-color: #ecf0f1;
+            padding: 20px;
+            border-radius: 8px;
+        }
+        footer {
+            background-color: #2c3e50;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Canient Search Partners</h1>
+        <p>Connecting Healthcare Organizations with Top Talent</p>
+    </header>
+    <nav>
+        <a href="#services">Services</a>
+        <a href="#philosophy">Our Philosophy</a>
+        <a href="#contact">Contact Us</a>
+    </nav>
+    <section class="container">
+        <h2 id="services">Our Services</h2>
+        <p><strong>Executive Recruitment:</strong> We connect healthcare organizations with highly qualified candidates for leadership positions.</p>
+        <p><strong>Customized Solutions:</strong> Recognizing that each client and candidate is unique, we tailor our recruitment strategies to meet specific needs.</p>
+    </section>
+    <section class="container">
+        <h2 id="philosophy">Our Philosophy</h2>
+        <p>The name "Canient" reflects our commitment to pairing the right <strong>CANdidate</strong> with the right <strong>clIENT</strong>, emphasizing the importance of both in achieving organizational success.</p>
+    </section>
+    <section class="container contact">
+        <h2 id="contact">Contact Us</h2>
+        <p><strong>Address:</strong> 5262 S Staples St, Corpus Christi, TX</p>
+        <p><strong>Phone:</strong> [Insert Phone Number]</p>
+        <p><strong>Email:</strong> [Insert Email Address]</p>
+        <p><strong>Facebook:</strong> <a href="https://www.facebook.com/cspjobs/" target="_blank">Canient Search Partners, LLC.</a></p>
+    </section>
+    <footer>
+        <p>&copy; 2024 Canient Search Partners. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
